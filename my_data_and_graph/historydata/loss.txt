@@ -1,0 +1,6 @@
+tensor(21.1508, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(31566.2168, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(717.2721, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(88.8437, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(196.4586, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(54.3357, device='cuda:0', grad_fn=<DivBackward0>)
