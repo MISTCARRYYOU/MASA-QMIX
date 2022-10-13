@@ -1,7 +1,4 @@
-"""
-这个agent代表的不是飞机的整体系统，而是相当于一个指挥者，指挥这些飞机该在什么时候前往什么保障位置
-暂时先使用随即策略表示智能体的策略，在这里需要限制agent的动作是合法的
-"""
+
 import numpy as np
 import pickle
 from environment import ScheduleEnv
@@ -62,7 +59,7 @@ def marl_agent_wrapper():
     if args.alg.find('g2anet') > -1:
         args = get_g2anet_args(args)
 
-    # 加载船舶调度环境
+    # 加载调度环境
     env = ScheduleEnv()
 
     env.reset()
