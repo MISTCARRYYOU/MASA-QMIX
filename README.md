@@ -1,7 +1,8 @@
 # MASA-QMIX
-Codes for paper of 'Solving job scheduling problems in a resource preemption environment with multi-agent reinforcement learning'
+Codes for the paper 'Solving job scheduling problems in a resource preemption environment with multi-agent reinforcement learning'
 
-The paper codes for the multi-agent scheduling architecture (MASA) with QMIX
+Codes for the multi-agent scheduling architecture (MASA) with QMIX
+
 The essence of these codes is the QMIX MARL algorithm for job shop scheduling problems (JSSP).
 
 If this repository is valueable for your research (perhaps), please cite our work as:
