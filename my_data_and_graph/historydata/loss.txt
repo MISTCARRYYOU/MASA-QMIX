@@ -1,0 +1,4 @@
+tensor(33.2520, grad_fn=<DivBackward0>)
+tensor(12949.6094, grad_fn=<DivBackward0>)
+tensor(357.1735, grad_fn=<DivBackward0>)
+tensor(50.9114, grad_fn=<DivBackward0>)
