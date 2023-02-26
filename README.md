@@ -15,3 +15,5 @@ python main.py
 ```
 
 Hyper-paras can be found in './MARL/common/arguments.py'
+
+There is a logic error in the problem program (not running error. The newest version is missed, and the current version suffers this little problem), but it will not affect the application of the algorithm to other scheduling problems.
