@@ -3,7 +3,7 @@ Codes for the paper 'Solving job scheduling problems in a resource preemption en
 
 Codes for the multi-agent scheduling architecture (MASA) with QMIX
 
-The essence of these codes is the QMIX MARL algorithm for job shop scheduling problems (JSSP).
+The essence of these codes is the QMIX MARL algorithm for job scheduling problems.
 
 If this repository is valuable for your research (perhaps), please cite our work as:
 
